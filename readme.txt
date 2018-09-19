@@ -1,11 +1,11 @@
 Write a method that will sort an array
 
-what objects
+what objects Integer
 
-what size
+what size any
 
-how to sort by
+how to sort by descending order
 
-will it always be full
+will it always be full yes
 
-what algorithim is required
+what algorithim is required -
